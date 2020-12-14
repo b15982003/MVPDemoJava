@@ -10,7 +10,6 @@ public class MainModel {
         }else {
             msg = "fail";
         }
-
     }
 
     public String checkSuccessfalAccoundMsg() {
